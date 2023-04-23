@@ -1,6 +1,6 @@
 # Notebook Lenovo Ideapad Gaming 3i - i5 10300H
 
-![overview-12 3](https://user-images.githubusercontent.com/23700365/158817960-413b6870-4d0e-4eef-b941-272ab61cd9ae.png)
+![overview-12 3](https://github.com/maycon2-0/EFI-NOTEBOOK-LENOVO-IDEAPAD-GAMING-3i-i5-10300H-iGPU/blob/EFI-VENTURA/Captura%20de%20Tela%202023-04-22%20a%CC%80s%2022.51.34.png)
 
 # EFI Details
 **Latest working macOS**: 13.3.1
@@ -24,7 +24,7 @@
 |Display|15,6" 60Hz|
 |Webcam|USB Buil-in|
 |Card Reader|USB Built-in|
-|TouchPad & Keyboard|PS/2 - SYNAPTICS (for ELAN001, please read instruction below)|
+|TouchPad & Keyboard|PS/2 - SYNAPTICS e ELAN|
 
 ### Working features
 - Intel UHD Graphics 630 (3072 Mb)
