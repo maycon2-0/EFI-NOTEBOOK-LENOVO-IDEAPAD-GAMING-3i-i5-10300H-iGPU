@@ -1,18 +1,18 @@
-# Notebook Lenovo Ideapad Gaming 3i - i5 10300H & i7 10750H
+# Notebook Lenovo Ideapad Gaming 3i - i5 10300H
 
 ![overview-12 3](https://user-images.githubusercontent.com/23700365/158817960-413b6870-4d0e-4eef-b941-272ab61cd9ae.png)
 
 # EFI Details
-**Latest working macOS**: 12.3
+**Latest working macOS**: 13.3.1
 <br>
-**Current OpenCore**: 0.7.9
+**Current OpenCore**: 0.9.1
 <br>
-**Release date**: 18/03/2022
+**Release date**: 22/04/2023
 
 # Notebook specifications
 |Item|Description|
 |-|:-------:|
-|CPU|Intel(R) Core(TM) i3-10300H (Also works with i7 10750H)|
+|CPU|Intel(R) Core(TM) i5-10300H|
 |Memory|16GB DDR4 (8Gx2)|
 |Storage|NVMe KBG40ZNS512G|
 |GPU|Intel(R) UHD Graphics 630|
@@ -34,10 +34,4 @@
 
 ### Don't work
 - HDMI
-
-### For ELAN0001 Trackpads
-
-- Please use `EFI-ELAN001` folder
-
-## Discord - Universo Hackintosh
-- [Access Discord](https://discord.universohackintosh.com.br)
+- Bluetooth
